@@ -1,0 +1,7 @@
+C:\Users\Richie\source\repos\Lab6Take2\Lab6Take2\bin\Debug\Lab6Take2.exe.config
+C:\Users\Richie\source\repos\Lab6Take2\Lab6Take2\bin\Debug\Lab6Take2.exe
+C:\Users\Richie\source\repos\Lab6Take2\Lab6Take2\bin\Debug\Lab6Take2.pdb
+C:\Users\Richie\source\repos\Lab6Take2\Lab6Take2\obj\Debug\Lab6Take2.csprojAssemblyReference.cache
+C:\Users\Richie\source\repos\Lab6Take2\Lab6Take2\obj\Debug\Lab6Take2.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\Lab6Take2\Lab6Take2\obj\Debug\Lab6Take2.exe
+C:\Users\Richie\source\repos\Lab6Take2\Lab6Take2\obj\Debug\Lab6Take2.pdb
